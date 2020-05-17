@@ -17,4 +17,4 @@ We successfully created a dynamic dashboard to display Belly Button Bio and uplo
 2. Gauge
 3, Scatter Plot
 
-![](Belly Button Bio.png)
+![](Belly%20Button%20Bio.png)
