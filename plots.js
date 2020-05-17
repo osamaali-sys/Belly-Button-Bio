@@ -48,10 +48,10 @@ function buildMetadata(sample) {
           steps: [
             { range: [0, 1], color: 'rgb(250, 100, 130)' },
             { range: [1,2], color: 'rgb(250, 165, 100)' },
-            { range: [2,4], color: "rgb(250, 250, 35)" },
-            { range: [4,6], color: "rgb(250, 230, 100)" },
-            { range: [6,8], color: "rgb(215, 250, 100)" },
-            { range: [8,10], color: "rgb(155, 250, 100)"}
+            { range: [2,3], color: "rgb(250, 250, 35)" },
+            { range: [3,5], color: "rgb(250, 230, 100)" },
+            { range: [5,7], color: "rgb(215, 250, 100)" },
+            { range: [7,9], color: "rgb(155, 250, 100)"}
           ],
           
         }
