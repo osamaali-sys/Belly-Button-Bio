@@ -43,7 +43,7 @@ function buildMetadata(sample) {
         value: result.wfreq,
         title: { text: "<b>Belly Button Washing Frequency</b><br>Scrubs per Week"},
         gauge: {
-          axis: { range: [null, 9],},
+          axis: { range: [null, 10],},
           bar: { color: "rgb(42,60,180)"},
           steps: [
             { range: [0, 1], color: 'rgb(250, 100, 130)' },
@@ -51,7 +51,7 @@ function buildMetadata(sample) {
             { range: [2,3], color: "rgb(250, 250, 35)" },
             { range: [3,5], color: "rgb(250, 230, 100)" },
             { range: [5,7], color: "rgb(215, 250, 100)" },
-            { range: [7,9], color: "rgb(155, 250, 100)"}
+            { range: [7,10], color: "rgb(155, 250, 100)"}
           ],
           
         }
