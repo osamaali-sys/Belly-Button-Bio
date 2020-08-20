@@ -13,11 +13,11 @@ Sources : VSCode, Github, Notepad, MSPaint, Google Chrome
 
 We successfully created a dynamic dashboard to display Belly Button Bio and uploaded it as a github page. we have different charts and graphs to effectively display the data;
 
-1, Bar Chart
+1. Bar Chart
 
 2. Gauge
 
-3, Scatter Plot
+3. Scatter Plot
 
 
 ![](Belly%20Button%20Bio.png)
